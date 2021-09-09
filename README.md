@@ -1,5 +1,5 @@
 # seccion_03
-## DIBUJOS##
+## DIBUJOS
 
 - Dibujo de mi pololo
 ![mi_atacazo_artistico (2)](https://user-images.githubusercontent.com/90002229/132755460-bd456775-8eff-4eaa-b92c-5c52c3906c0c.jpg)
